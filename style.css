@@ -1,0 +1,134 @@
+.title{color: #ff0000;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Oleo Script', cursive;
+    text-decoration: underline;
+}
+.first-image{
+    border-radius: 25px;
+    display: block;
+    margin:0 auto ;
+    border: 3px solid red;
+    width: 600px;
+    
+
+}
+
+p{
+    text-align: justify;
+    color: black;
+font-family: 'Special Elite', cursive;
+font-size: 25px;
+}
+.icon{
+    color: #c93535;
+    font-size: 100px;
+    }
+    .icon:hover{
+        opacity:0.8 ;
+    border:3px solid rgb(255, 255, 255) ;
+    }
+.link-mail{
+    font-size:25px;
+    text-decoration: none;
+    font-family: 'Special Elite', cursive;
+
+}
+ul{
+    font-size: 30px;
+    list-style-type: circle;
+}
+.first{color: red;}
+.second{color: rgb(201, 221, 51);}
+
+li{
+    font-size: 25px; 
+    font-family: 'Special Elite', cursive;
+
+}
+.wiki{
+    font-size:25px;
+    text-decoration: none;
+    font-family: 'Special Elite', cursive;
+}
+.grid{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    border: 3px solid black;
+    justify-items: center;
+    background-color: #b32128;
+    grid-gap: 15px;
+}
+.grid-item{
+    border-right: 2px solid black;
+   color: #ffffff;
+
+}
+img{
+    width: 400px;
+}
+.image-grid{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    grid-gap: 150px;
+    margin-bottom: 50px;
+}
+.first-image:hover{
+    opacity:0.8 ;
+    border:3px solid rgb(234, 245, 151) ;
+}
+.img1{
+    border:3px solid rgb(241, 244, 90) ;
+}
+.img2{
+    border:3px solid rgb(238, 255, 80) ;
+}
+.img3{
+    border:3px solid rgb(255, 235, 52) ;
+}
+.img4{
+    border:3px solid rgb(255, 208, 0) ;
+}
+
+.img1:hover{
+    opacity:0.8 ;
+    border:3px solid rgb(255, 255, 255) ; ;
+}
+.img2:hover{
+    opacity:0.8 ;
+    border:3px solid rgb(255, 255, 255) ; ;
+}
+.img3:hover{
+    opacity:0.8 ;
+    border:3px solid rgb(255, 255, 255) ;}
+.img4:hover{
+    opacity:0.8 ;
+    border:3px solid rgb(255, 255, 255) ;
+}
+.youtube{
+    font-size:100px;
+    color: #b32128;
+    text-decoration: none;
+}
+.youtube:hover{
+    opacity:0.8 ;
+    border:3px solid rgb(255, 255, 255) ; ;
+}
+.youtube1:hover{
+    opacity:0.8 ;
+    border:3px solid rgb(255, 255, 255) ; ;
+}
+.youtube1{
+    color: #ffffff;
+    background-color: #ff000d;
+    font-size: 50px;
+    padding: 20px;
+    border-radius: 20px;
+   
+}
+.button{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
